@@ -1,0 +1,5 @@
+{
+  "welcome_message": "Welcome to our application, {{.Name}}!",
+  "goodbye_message": "Goodbye, {{.Name}}!",
+  "error_message": "An error occurred. Please try again later."
+}

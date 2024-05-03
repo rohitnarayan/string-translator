@@ -1,0 +1,5 @@
+{
+  "welcome_message": "Selamat datang di aplikasi kami, {{.Name}}!",
+  "goodbye_message": "Sampai jumpa, {{.Name}}!",
+  "error_message": "Terjadi kesalahan. Mohon coba lagi nanti."
+}
